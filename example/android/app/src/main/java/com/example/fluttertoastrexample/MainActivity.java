@@ -1,4 +1,4 @@
-package com.example.fluttertoastr;
+package com.example.fluttertoastrexample;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
